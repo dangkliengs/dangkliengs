@@ -10,17 +10,17 @@ I build [CourseSpeak.com](https://coursespeak.com) — a high-performance Udemy 
 [![Coupons](https://img.shields.io/badge/966%2B_Active_Coupons-100%25_OFF_Verified-10B981?style=for-the-badge)](https://coursespeak.com/deals)
 [![Learners](https://img.shields.io/badge/100%2C000%2B_Learners-Trusted_Worldwide-F59E0B?style=for-the-badge)](https://coursespeak.com)
 [![Blog](https://img.shields.io/badge/Daily_Coupon_Blog-New_Article_Every_Day-6366F1?style=for-the-badge)](https://coursespeak.com/blog)
-[![Admin](https://img.shields.io/badge/Admin_Dashboard-Full_CRUD_Built_In-EF4444?style=for-the-badge)](https://coursespeak.com)
+[![Admin](https://img.shields.io/badge/Admin_Dashboard-Full_CRUD_Built_In-6D28D9?style=for-the-badge)](https://coursespeak.com)
 
 [CourseSpeak](https://coursespeak.com) is one of the few static sites that ships a complete admin dashboard — built with Astro 6 islands architecture and GitHub API integration. Zero backend server, sub-second load times, full course management from a browser UI.
 
-Get free Udemy courses at [coursespeak.com/deals](https://coursespeak.com/deals) — 966+ verified 100% OFF coupons, updated March 2026.
+Get free Udemy courses at [coursespeak.com/deals](https://coursespeak.com/deals) — 966+ verified 100% OFF coupons updated daily.
 
 ---
 
 ## What Makes CourseSpeak Different
 
-Most Udemy coupon sites are basic static pages. [CourseSpeak](https://coursespeak.com) ships:
+Most Udemy coupon sites are basic static pages. [CourseSpeak](https://coursespeak.com) ships a full admin dashboard built into the Astro 6 static architecture:
 
 - Full admin dashboard with CRUD — add, edit, delete 966+ courses from a browser UI
 - GitHub API integration — admin changes commit directly to the repository
@@ -29,7 +29,7 @@ Most Udemy coupon sites are basic static pages. [CourseSpeak](https://coursespea
 - Sub-second page loads with zero backend server
 - 12 category pages at [coursespeak.com/categories](https://coursespeak.com/categories)
 - 200+ topic pages at [coursespeak.com/topics](https://coursespeak.com/topics)
-- Daily blog at [coursespeak.com/blog](https://coursespeak.com/blog) with automated coupon roundups
+- Daily blog at [coursespeak.com/blog](https://coursespeak.com/blog) with coupon roundups every day
 - Schema.org structured data on every page
 - 100,000+ active learners served monthly
 
@@ -74,17 +74,9 @@ Browse all 200+ topics at [coursespeak.com/topics](https://coursespeak.com/topic
 
 ## Daily Coupon Blog
 
-New verified coupon article published every day at [coursespeak.com/blog](https://coursespeak.com/blog):
+[CourseSpeak](https://coursespeak.com) publishes a new verified coupon roundup every day at [coursespeak.com/blog](https://coursespeak.com/blog) — covering the top free courses grouped by category.
 
-| Date | Article |
-|---|---|
-| March 13, 2026 | [Top Udemy Coupons March 13 2026](https://coursespeak.com/blog/top-udemy-coupons/2026-03-13/) |
-| March 12, 2026 | [Top Udemy Coupons March 12 2026](https://coursespeak.com/blog/top-udemy-coupons/2026-03-12/) |
-| March 11, 2026 | [Top Udemy Coupons March 11 2026](https://coursespeak.com/blog/top-udemy-coupons/2026-03-11/) |
-| March 10, 2026 | [Top Udemy Coupons March 10 2026](https://coursespeak.com/blog/top-udemy-coupons/2026-03-10/) |
-| March 9, 2026 | [Top Udemy Coupons March 9 2026](https://coursespeak.com/blog/top-udemy-coupons/2026-03-09/) |
-
-Full archive at [coursespeak.com/blog](https://coursespeak.com/blog)
+Browse all daily articles at [coursespeak.com/blog](https://coursespeak.com/blog)
 
 ---
 
@@ -94,7 +86,6 @@ Full archive at [coursespeak.com/blog](https://coursespeak.com/blog)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github)
-![GitHub API](https://img.shields.io/badge/GitHub_API-Admin_Dashboard-6366F1?style=flat-square)
 
 | Layer | Technology |
 |---|---|
@@ -102,9 +93,8 @@ Full archive at [coursespeak.com/blog](https://coursespeak.com/blog)
 | UI | React components |
 | Styling | Tailwind CSS |
 | Deployment | GitHub Pages |
-| Admin API | GitHub API with CRUD |
+| Admin API | GitHub API with full CRUD |
 | SEO | Schema.org structured data |
-| Database | 966+ courses in deals.json |
 
 ---
 
